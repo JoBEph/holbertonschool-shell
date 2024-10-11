@@ -1,2 +1,2 @@
 #!/bin/bash
-mv dir /*[A-Z]* /tmp/u
+mv dir/[A-Z]* /tmp/u
