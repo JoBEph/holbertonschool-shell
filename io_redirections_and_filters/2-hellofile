@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH:/ect/passwd
+echo /ect/passwd
