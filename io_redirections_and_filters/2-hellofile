@@ -1,2 +1,2 @@
 #!/bin/bash
-cat psswd
+echo /etc/psswd
