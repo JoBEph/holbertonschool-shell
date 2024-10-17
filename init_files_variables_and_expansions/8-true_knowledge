@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv | grap TRUEKNOWLEDGE=128
+set TRUEKNOWLEDGE=128
