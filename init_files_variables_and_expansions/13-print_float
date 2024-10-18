@@ -1,2 +1,2 @@
 #!/bin/bash
-printf x/HH ($NUM)
+printf /xHH ($NUM)
