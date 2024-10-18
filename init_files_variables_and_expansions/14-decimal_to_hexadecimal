@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%x\n" $(($DECIMAL#FF))
+echo "%x\n"$DECIMAL
